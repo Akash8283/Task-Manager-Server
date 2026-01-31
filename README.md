@@ -1,11 +1,4 @@
 
----
-
-# 📘 Backend README (Node + Express)
-
-```md
-# Task Manager – Backend
-
 This is the backend API for the Task Management Web Application.  
 It provides RESTful endpoints to manage tasks with CRUD operations.
 
@@ -34,5 +27,6 @@ backend/
 ## ⚙️ Setup Instructions
 
 1. Clone the repository
-```bash
-git clone <backend-repo-url>
+2. Install dependencies(npm install)
+3. Configure MongoDB
+4. Start the server(node index.js)
